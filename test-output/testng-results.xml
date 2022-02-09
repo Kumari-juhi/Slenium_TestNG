@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31752" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:57 PST">
+    <groups>
+    </groups>
+    <test name="TestNG.xml" duration-ms="31752" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:57 PST">
+      <class name="com.edu.qa.demo.Course_Detail">
+        <test-method status="PASS" signature="define_classprop()[pri:0, instance:com.edu.qa.demo.Course_Detail@52f759d7]" name="define_classprop" is-config="true" duration-ms="1" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:25 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- define_classprop -->
+        <test-method status="PASS" signature="browser_initialization()[pri:0, instance:com.edu.qa.demo.Course_Detail@52f759d7]" name="browser_initialization" is-config="true" duration-ms="3234" started-at="2022-02-01T07:19:43 PST" finished-at="2022-02-01T07:19:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_initialization -->
+        <test-method status="PASS" signature="courseLink()[pri:1, instance:com.edu.qa.demo.Course_Detail@52f759d7]" name="courseLink" duration-ms="7554" started-at="2022-02-01T07:19:46 PST" finished-at="2022-02-01T07:19:53 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edu.qa.demo.Course_Detail@52f759d7]" name="tearDown" is-config="true" duration-ms="119" started-at="2022-02-01T07:19:53 PST" finished-at="2022-02-01T07:19:53 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edu.qa.demo.Course_Detail -->
+      <class name="com.edu.qa.demo.Search_Detail">
+        <test-method status="PASS" signature="define_prop_class()[pri:0, instance:com.edu.qa.demo.Search_Detail@7cbd213e]" name="define_prop_class" is-config="true" duration-ms="0" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:25 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- define_prop_class -->
+        <test-method status="PASS" signature="lunchs_browser()[pri:0, instance:com.edu.qa.demo.Search_Detail@7cbd213e]" name="lunchs_browser" is-config="true" duration-ms="2804" started-at="2022-02-01T07:19:53 PST" finished-at="2022-02-01T07:19:56 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchs_browser -->
+        <test-method status="PASS" signature="search_for_college()[pri:0, instance:com.edu.qa.demo.Search_Detail@7cbd213e]" name="search_for_college" duration-ms="400" started-at="2022-02-01T07:19:56 PST" finished-at="2022-02-01T07:19:57 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_for_college -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edu.qa.demo.Search_Detail@7cbd213e]" name="tearDown" is-config="true" duration-ms="100" started-at="2022-02-01T07:19:57 PST" finished-at="2022-02-01T07:19:57 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edu.qa.demo.Search_Detail -->
+      <class name="com.edu.qa.demo.College_Detail">
+        <test-method status="PASS" signature="define_propclass()[pri:0, instance:com.edu.qa.demo.College_Detail@66d1af89]" name="define_propclass" is-config="true" duration-ms="6" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:25 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- define_propclass -->
+        <test-method status="PASS" signature="lunch_browser()[pri:0, instance:com.edu.qa.demo.College_Detail@66d1af89]" name="lunch_browser" is-config="true" duration-ms="5452" started-at="2022-02-01T07:19:25 PST" finished-at="2022-02-01T07:19:30 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch_browser -->
+        <test-method status="PASS" signature="college_Detail()[pri:1, instance:com.edu.qa.demo.College_Detail@66d1af89]" name="college_Detail" duration-ms="9993" started-at="2022-02-01T07:19:31 PST" finished-at="2022-02-01T07:19:40 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- college_Detail -->
+        <test-method status="PASS" signature="displaysearch_result()[pri:2, instance:com.edu.qa.demo.College_Detail@66d1af89]" name="displaysearch_result" duration-ms="1940" started-at="2022-02-01T07:19:40 PST" finished-at="2022-02-01T07:19:42 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaysearch_result -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edu.qa.demo.College_Detail@66d1af89]" name="tearDown" is-config="true" duration-ms="120" started-at="2022-02-01T07:19:42 PST" finished-at="2022-02-01T07:19:43 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edu.qa.demo.College_Detail -->
+    </test> <!-- TestNG.xml -->
+  </suite> <!-- Suite -->
+</testng-results>

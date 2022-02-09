@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="TestNG.xml(failed)">
+    <classes>
+      <class name="com.edu.qa.demo.Course_Detail">
+        <methods>
+          <include name="corseLink"/>
+          <include name="Class_prop"/>
+          <include name="intil"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.edu.qa.demo.Course_Detail -->
+    </classes>
+  </test> <!-- TestNG.xml(failed) -->
+</suite> <!-- Failed suite [Suite] -->
